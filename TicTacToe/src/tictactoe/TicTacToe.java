@@ -727,7 +727,7 @@ public class TicTacToe {
                 exit();
             }
         } else if (firstReply.equals("yes")) {
-
+            //TODO: userFirst intelligent mode
         } else {
             exit();
         }
