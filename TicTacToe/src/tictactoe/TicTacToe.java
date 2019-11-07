@@ -462,7 +462,7 @@ public class TicTacToe {
         }
     }
 
-    // computer intelligent mode, crown jewel of this program, responsible for approximately 2500 lines of code, took about 2 weeks
+    // computer intelligent mode, crown jewel of this program, responsible for 2504 lines of code, took about 2 weeks
     // uses the chart at https://xkcd.com/832/ and way, way, waaay too many if statements
     // plays agains the user in order to always win or tie (it is impossible for the user to win against compIntel)
     public static void compIntel() {
